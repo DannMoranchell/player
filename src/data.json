@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {"url": "videos/video/vid1.mp4"},
+    {"url": "videos/video/vid2.mp4"}
+  
+  ],
+  "images": [
+    {"url":"images/img1.jpg"},  
+    {"url":"images/img2.jpg"}
+  ],
+
+  "normalProducts": [
+  {    
+    "image": "images/pechugahueso.jpg",
+    "name": "Pechuga con hueso - kg",
+    "price": "$129.00"
+  },
+  {
+    "image": "images/molidaespecial.jpg",
+    "name": "Molida Especial 80-20",
+    "price": "$130.50"
+  },
+  {
+    "image": "images/sirloin.jpg",
+    "name": "Sirloin de res - kg",
+    "price": "$236.00"
+  },
+  {
+    "image": "images/milanesabola.jpg",
+    "name": "Milanesa bola - kg",
+    "price": "$229.50"
+  },
+  {
+    "image": "images/milanesacerdo.jpg",
+    "name": "Milanesa cerdo - kg",
+    "price": "$122.00"
+  },
+  {
+    "image": "images/ribeye.jpg",
+    "name": "Rib eye -kg",
+    "price": "$4339.00"
+  },
+  {
+    "image": "images/NY.jpg",
+    "name": "New york -kg",
+    "price": "$309.50"
+  },
+  {
+    "image": "images/hamburguesareb.jpeg",
+    "name": "Hamburguesa reb eye -pza",
+    "price": "$99.00"
+  },
+  {
+    "image": "images/panzares.jpg",
+    "name": "Panza de res -kg",
+    "price": "$89.00"
+  },
+  {
+    "image": "images/retazohueso.jpg",
+    "name": "Retazo con hueso -kg",
+    "price": "$122.00"
+  }
+  
+  ],
+
+  "specialProducts": [
+  {
+    "name": "Milanesa pechuga - kg",
+    "price": "$197.15"
+  },
+  {
+    "name": "Costilla cerdo - kg",
+    "price": "$132.00"
+  }
+  ]
+}
